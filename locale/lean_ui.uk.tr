@@ -1,0 +1,24 @@
+# textdomain: lean_ui
+Recipe Book=Книга рецептів
+Recipes=Рецепти
+Search=Пошук
+Search recipes...=Пошук рецептів...
+Category:=Категорія:
+All recipes=Усі рецепти
+No recipes found.=Рецептів не знайдено.
+Recipe for:=Рецепт для:
+Back=Назад
+Back to inventory=До інвентаря
+Page @1 of @2=Сторінка @1 з @2
+Smelting=Плавлення
+All=Усі
+Tools=Інструменти
+Building=Будівництво
+Nature=Природа
+Food=Їжа
+Crafting=Крафт
+Decoration=Декорації
+Ores=Руди
+Misc=Різне
+Armor=Броня
+Light=Світло
