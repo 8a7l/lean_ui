@@ -47,6 +47,10 @@ Tested with 234 recipes on a live server: index builds in ~5 ms.
 **Optional:**
 - `3d_armor` — enables armor slots in the inventory
 
+**Not compatible with Minetest Game** (uses sfinv). Lean UI
+replaces the inventory entirely and is designed for games
+without sfinv.
+
 ## Installation
 
 1. Download the archive from the Releases section.
