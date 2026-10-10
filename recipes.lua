@@ -1,5 +1,3 @@
--- SPDX-License-Identifier: GPL-3.0-only
--- Copyright (C) 2026 8a7l
 -- lean_ui/recipes.lua
 -- Recipe encyclopedia with search, category dropdown and pagination.
 --
@@ -322,7 +320,7 @@ function lean_ui_recipes.build_main(search, category, page)
 		p[#p+1] = "label[4.7," .. (py + 0.2) .. ";" ..
 			S("Page @1 of @2", page, total_pages) .. "]"
 		if page < total_pages then
-			p[#p+1] = "button[6.8," .. py .. ";1,0.7;page_" ..
+			p[#p+1] = "button[7.0," .. py .. ";1,0.7;page_" ..
 				(page + 1) .. ";>]"
 		end
 	end
