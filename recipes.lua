@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: GPL-3.0-only
+-- Copyright (C) 2026 8a7l
 -- lean_ui/recipes.lua
 -- Recipe encyclopedia with search, category dropdown and pagination.
 --
